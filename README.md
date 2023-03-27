@@ -15,8 +15,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/ZakiOrya#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ZakiOrya#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zaki-orya-2573b819a#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zaki-orya-2573b819a#gh-dark-mode-only/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zaki-orya/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zaki-orya/#gh-dark-mode-only/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/zakiorya#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/zakiorya#gh-dark-mode-only/)
