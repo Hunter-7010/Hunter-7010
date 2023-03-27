@@ -9,17 +9,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://zakiorya.vercel.app/)
-[![website](./img/globe-dark.svg)](https://zakiorya.vercel.app/)
+[![website](./img/globe-light.svg)](https://zakiorya.vercel.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://zakiorya.vercel.app#gh-dark-mode-only/)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/ZakiOrya)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ZakiOrya)
+[![website](./img/twitter-light.svg)](https://twitter.com/ZakiOrya#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ZakiOrya#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zaki-orya-2573b819a/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zaki-orya-2573b819a/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zaki-orya-2573b819a#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zaki-orya-2573b819a#gh-dark-mode-only/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/zakiorya/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/zakiorya/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/zakiorya#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/zakiorya#gh-dark-mode-only/)
 
 ### Languages and Tools:
 
