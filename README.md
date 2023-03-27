@@ -40,7 +40,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Zaki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hunter-7010&show_icons=true&theme=tokyonight" />
+  <img alt="Zaki's GitHub Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=Hunter-7010&show_icons=true&theme=tokyonight" />
 
 
 [portfolio]: https://zakiorya.vercel.app/
