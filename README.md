@@ -35,16 +35,12 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][]
 
-<br />
-<br />
-
-  <summary>:zap: GitHub Stats</summary>
+## :zap: GitHub Stats
 
   <img alt="Zaki's GitHub Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=Hunter-7010&show_icons=true&theme=tokyonight" />
 
 
 [portfolio]: https://zakiorya.vercel.app/
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-
+[twitter]: https://twitter.com/ZakiOrya
+[instagram]: https://instagram.com/zakiorya
+[linkedin]: https://linkedin.com/in/zaki-orya
