@@ -4,7 +4,7 @@
 
 - 🔭 Check out my Portfolio: [Personal Portfolio][portfolio]!
 - 🌱 I’m currently learning everything 
-- 🥅 2023 Goals: Learn more about React Native
+- 🥅 2024 Goals: Learn more about React Native
 - ⚡ Fun fact: I love to play chess
 
 ### Connect with me:
